@@ -13,5 +13,5 @@ recipes and use them.
 [uMatrix Rules - Site Level](https://github.com/uMatrix-Rules/uMatrix-Rules-Site)    
 [Official Recipes for uMatrix](https://github.com/uBlockOrigin/uAssets/blob/master/recipes/recipes_en.txt)    
 [Reddit Recipes Thread](https://www.reddit.com/r/uMatrix/comments/7v5zrq/recipes/)    
-[uMatrix Issue Discussion about Recipes](https://github.com/gorhill/uMatrix/issues/30)
-[https://github.com/themagicteeth on GitHub](https://github.com/themagicteeth)
+[uMatrix Issue Discussion about Recipes](https://github.com/gorhill/uMatrix/issues/30)    
+[themagicteeth on GitHub](https://github.com/themagicteeth)    
